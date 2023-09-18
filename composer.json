@@ -1,0 +1,24 @@
+{
+    "name": "mahadhi/generator",
+    "type": "library",
+    "description": "Mhadhi Crud Genrator Package for Laravel",
+    "keywords": [
+        "laravel",
+        "generator"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mahadhi\\Generator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mahadhi78",
+            "email": "mahadhiramadhan@gmail.com"
+        }
+    ]
+}
