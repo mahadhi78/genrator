@@ -1,7 +1,7 @@
 {
     "name": "mahadhi/generator",
     "type": "library",
-    "description": "Mhadhi Crud Genrator Package for Laravel",
+    "description": "Crud Genrator Package for Laravel:  This package willl be able to generate th crud operation by measn of it controller with full features",
     "keywords": [
         "laravel",
         "generator"

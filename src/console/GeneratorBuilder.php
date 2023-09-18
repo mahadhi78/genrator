@@ -2,7 +2,7 @@
 
 namespace Mahadhi\Generator\console;
 
-use File;
+use Illuminate\Support\Facades\File;
 use Illuminate\Console\Command;
 use Symfony\Component\Console\Input\InputOption;
 
